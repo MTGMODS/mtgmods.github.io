@@ -299,4 +299,7 @@ connectad.io, 453, RESELLER, 85ac85a30c93b3e5
 orangeclickmedia.com, c-1181, RESELLER
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 rhebus.works, 5000863388, RESELLER
+themediagrid.com, NC7LXT, RESELLER, 35d5010d7789b49d
+video.unrulymedia.com, 657436911, RESELLER
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
 ownerdomain=mtgmods.github.io
