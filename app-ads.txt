@@ -1,3 +1,6 @@
+xandr.com, 17779, RESELLER
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+appnexus.com, 17779, RESELLER
 loopme.com, 14009, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11605, RESELLER, 6c8d5f95897a5a3b
