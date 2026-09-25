@@ -1,3 +1,9 @@
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
 improvedigital.com, 2297, RESELLER
 improvedigital.com, 2464, RESELLER
 kidoz.net, 14260, RESELLER, a109366414b7335e
